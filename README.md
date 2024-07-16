@@ -14,3 +14,6 @@ Let's experiment with Semantic chunking & see the results
 
 If you like this content, I am sure you are going to love my other AI/ML/Data related content too. 
 I create tutorials on my YouTube channel on different AI/ML/Data related concepts. [Subscribe to my YouTube channel](https://www.youtube.com/@pavanbelagatti)😊
+
+#### Credits:
+This tutorial is inspired by Plaban Nayak's [article on Medium](https://medium.com/the-ai-forum/semantic-chunking-for-rag-f4733025d5f5).
