@@ -10,4 +10,7 @@ Let's experiment with Semantic chunking & see the results
 ## Tech Stack Used
 ### LangChain - Open source AI framework to load, split and to create embeddings of the data
 ### SingleStore - As a robust vector database to store vector embeddings. [Sign up & get a free account](https://www.singlestore.com/cloud-trial/?utm_medium=referral&utm_source=pavan&utm_term=yt&utm_content=semRAG).
-### Groq and HuggingFace - To choose our LLMs and embedding models¶
+### Groq and HuggingFace - To choose our LLMs and embedding models
+
+If you like this content, I am sure you are going to love my other AI/ML/Data related content too. 
+I create tutorials on my YouTube channel on different AI/ML/Data related concepts. [Subscribe to my YouTube channel](https://www.youtube.com/@pavanbelagatti)😊
